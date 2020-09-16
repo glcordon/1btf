@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'SuSu Admin',
+    'site_title' => 'One Bttrfly',
 ];
